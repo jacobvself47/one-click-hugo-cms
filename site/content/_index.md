@@ -8,7 +8,7 @@ blurb:
 intro:
     heading: "What we offer"
     text: "RCPM is skilled in new residential construction, residential remodeling, and property management."
-services:
+products:
     - image: img/illustrations-coffee.svg
       text: "Our Construction Services: Crafting Homes that Reflect Your Vision"
     - image: /img/illustrations-coffee-gear.svg
